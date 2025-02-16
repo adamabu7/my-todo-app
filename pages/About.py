@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.write("Hello")
+st.write("Hello, thanks for viewing my Todo App!")
