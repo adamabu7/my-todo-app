@@ -1,4 +1,4 @@
-#https://my-todo-app-4k8m.onrender.com/About - Render Deployed PaaS
+#https://my-todo-app-4k8m.onrender.com - Render Deployed PaaS
 #https://adamabu7-my-todo-app-web-viblsg.streamlit.app/
 import streamlit as st
 import functions
